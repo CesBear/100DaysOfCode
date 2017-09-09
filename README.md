@@ -1,8 +1,9 @@
 # 100DaysOfCode
-### Code for at least an hour daily.
+### Code for at least an hour daily, but more focused on Javascript Testing Frameworks
 
 ## About
-This is a personal challenge, everyone is free to join, my goal is to dive into Javascript testing frameworks.
+This is a personal challenge, everyone is free to join, my goal is to dive into Javascript testing frameworks. In México organizations there is a lack
+of Javascript testing in the QA role. Most of the Unit Testing and JS testing is doing by Devs. The goal of this is to get knowlege and we as a QA be able to give feedback to developers in every phase of the project. So I decided to learn and practice on JS frameworks.
 
 ## Specs
 For everyday code, I will post, update, and share a repo of what I did that day.
