@@ -2,25 +2,48 @@
 ### Code for at least an hour daily.
 
 ## About
-This is a personal challenge, everyone is free to join, my goal is to dive into HTML, CSS, and Javascript becuase I want o learn and apply testing frameworks in Javascript
+This is a personal challenge, everyone is free to join, my goal is to dive into Javascript testing frameworks.
 
 ## Specs
 For everyday I code, I will post, update, and share a repo of what I did that day.
+
+## Testing Frameworks  Tentative
+
+⋅⋅* Jest
+⋅⋅* Enzyne
+⋅⋅* Mocha
+⋅⋅* Jasmine
+⋅⋅* cucumber
+⋅⋅* Nigthwatch
 
 ## How You Can Contribute
 I will link what I've done for the day below. You may wish to clone this repo and add your own links to projects you work on as well in joining me for the challenge. Just include your username, followed by a link to your own repo under **Contributers**.
 
 ## My Progress
-|  [day 0]  |  [day 1]  |  [day 2]  |  [day 3]  |  [day 4]  |  [day 5]
+
+# Week 1
+[day 1]  |  [day 2]  |  [day 3]  |  [day 4]  |  [day 5] |  [day 6]  |  [day 7]
+
+# Week 2
+[day 8]  |  [day 9]  |  [day 10] |  [day 11] |  [day 12] |  [day 13] |  [day 14]
 
 
-|  [day 6]  |  [day 7]  |  [day 8]  |  [day 9]  |  [day 10] |  [day 11]
+# Week 3
+# Week 4
+# Week 5
+# Week 6
+# Week 7
+# Week 8
+# Week 9
+# Week 10
+# Week 11
+# Week 12
+# Week 13
+# Week 14
 
 
-|  [day 12] |  [day 13] |  [day 14] |  [day 15] |  [day 16] |  [day 17]
 
-
-|  [day 18] |  [day 19] |  [day 20] |  [day 21] |  [day 22] |  [day 23]
+[day 15] |  [day 16] |  [day 17]| [day 18] |  [day 19] |  [day 20] |  [day 21] |  [day 22] |  [day 23]
 
 
 |  [day 24] |  [day 25] |  [day 26] |  [day 27] |  [day 28] |  [day 29]
