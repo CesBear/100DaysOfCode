@@ -3,7 +3,8 @@
 
 ## About
 This is a personal challenge, everyone is free to join, my goal is to dive into Javascript testing frameworks. In México organizations there is a lack
-of Javascript testing in the QA role. Most of the Unit Testing and JS testing is doing by Devs. The goal of this is to get knowlege and we as a QA be able to give feedback to developers in every phase of the project. So I decided to learn and practice on JS frameworks.
+of Javascript testing in the QA role. Most of the Unit Testing and JS testing is doing by Devs. The goal of this is to get knowlege and we as a QA be able to participate in every phase of the project and provide fast feedback to developers.
+So I decided to learn and practice a few JS frameworks.
 
 ## Specs
 For everyday code, I will post, update, and share a repo of what I did that day.
@@ -24,7 +25,7 @@ I will link what I've done for the day below. You may wish to clone this repo an
 ## My Progress
 
 ### Week 1
-[day 1]  |  [day 2]  |  [day 3]  |  [day 4]  |  [day 5] |  [day 6]  |  [day 7]
+[day 1]  |  [day 2]  |  [day 3]  |  [day 4]  |  [day 5]  |  [day 6]  |  [day 7]
 
 ### Week 2
 [day 8]  |  [day 9]  |  [day 10] |  [day 11] |  [day 12] |  [day 13] |  [day 14]
