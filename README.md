@@ -5,16 +5,17 @@
 This is a personal challenge, everyone is free to join, my goal is to dive into Javascript testing frameworks.
 
 ## Specs
-For everyday I code, I will post, update, and share a repo of what I did that day.
+For everyday code, I will post, update, and share a repo of what I did that day.
 
-## Testing Frameworks  (Tentative)
+## Testing Frameworks  (Tentative):
 
-⋅⋅* Jest
-⋅⋅* Enzyne
-⋅⋅* Mocha
-⋅⋅* Jasmine
-⋅⋅* cucumber
-⋅⋅* Nigthwatch
+* Mocha
+* Jasmine
+* Cucumber
+* Nigthwatch
+* Jest
+* Enzyne
+* AVA
 
 ## How You Can Contribute
 I will link what I've done for the day below. You may wish to clone this repo and add your own links to projects you work on as well in joining me for the challenge. Just include your username, followed by a link to your own repo under **Contributers**.
@@ -63,11 +64,9 @@ I will link what I've done for the day below. You may wish to clone this repo an
 ###  Week 14
 [day 92] |  [day 93] |  [day 94] |  [day 95] |  [day 96] |  [day 97] |  [day 98]
 
-## Final Week
+### Final Week
 [day 99] |  [day 100] | [bonus] |
 
-
-
 ## Contributors
-Me, /CesBear
+Me: /CesBear
 * Project [repo link](http://github.com/CesBear/100DaysOfCode).
