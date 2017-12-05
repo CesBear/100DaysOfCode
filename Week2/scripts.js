@@ -56,3 +56,17 @@ var isMale = true;
 var isOld = true;
 var isOldMan = isMale && isOld;
 alert(isOldMan);
+
+
+// Code goes here
+var add = function (x,y)
+{
+  var z = x + y;
+  return z;
+};
+
+
+
+var sum = add(5,6);
+//alert(sum);
+output.innerHTML = sum;
