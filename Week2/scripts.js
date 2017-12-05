@@ -16,10 +16,8 @@ else
 }
 alert ("Thank you");
 
-
 /* anotherway of same code above*/
 var age = Number(promt("whats is your age?", ""));
-
 var string = "";
 for  (var theAge = age; theAge  > 0; theAge -=1)
 {
@@ -27,11 +25,7 @@ for  (var theAge = age; theAge  > 0; theAge -=1)
 }
 alert(string);
 
-
-
-
 var age = Number(promt("whats is your age?", ""));
-
 var string = "";
 for  (var counter = 1; counter  < age; counter +=1)
 {
@@ -39,12 +33,9 @@ for  (var counter = 1; counter  < age; counter +=1)
   if (counter %7 ==0)
       break;
 }
-
 alert(string);
 
-
 var animal = "dog";
-
 switch (animal)
 {
   case "cat":
@@ -60,3 +51,8 @@ switch (animal)
     alert("no alert")
     break;
 }
+// BOOLEANS IN JS
+var isMale = true;
+var isOld = true;
+var isOldMan = isMale && isOld;
+alert(isOldMan);
