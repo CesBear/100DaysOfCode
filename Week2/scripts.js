@@ -65,8 +65,6 @@ var add = function (x,y)
   return z;
 };
 
-
-
 var sum = add(5,6);
 //alert(sum);
 output.innerHTML = sum;
