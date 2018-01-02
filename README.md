@@ -2,8 +2,12 @@
 ### Code for at least an hour daily, but more focused on Javascript Testing Frameworks
 
 ## About
-This is a personal challenge, everyone is free to join, my goal is to dive into Javascript testing frameworks. In México organizations there is a lack
-of Javascript testing in the QA role. Most of the Unit Testing and JS testing is doing by Devs. The goal of this is to get knowlege and we as a QA be able to participate in every phase of the project and provide fast feedback to developers.
+This is a personal challenge, everyone is free to join, my goal is to dive into  
+Javascript testing frameworks. In México organizations there is a lack  
+of Javascript testing in the QA role.  
+Most of the Unit Testing and JS testing is doing by Devs. The goal of this  
+is to get knowlege and we as a QA be able to participate in every phase of the  
+project and provide fast feedback to developers.  
 So I decided to learn and practice a few JS frameworks.
 
 ## Specs
@@ -20,7 +24,9 @@ For everyday code, I will post, update, and share a repo of what I did that day.
 * AVA
 
 ## How You Can Contribute
-I will link what I've done for the day below. You may wish to clone this repo and add your own links to projects you work on as well in joining me for the challenge. Just include your username, followed by a link to your own repo under **Contributers**.
+I will link what I've done for the day below. You may wish to clone this repo  
+and add your own links to projects you work on as well in joining me for the challenge.  
+Just include your username, followed by a link to your own repo under **Contributers**.
 
 ## My Progress
 
