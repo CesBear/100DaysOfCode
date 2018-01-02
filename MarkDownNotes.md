@@ -1,10 +1,7 @@
-* Writting Format
-* Plain text /Human Readable
-* Simple, Compact Syntax (formatting)
-* Open Source
+# Markdown Useful tips and syntax
 
 
-#### FLavor of Markdown
+#### Flavors of Markdown
 
 * Markdown (Original, John Gruber)
 
