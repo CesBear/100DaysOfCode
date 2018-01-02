@@ -1,5 +1,5 @@
 # 100DaysOfCode
-### Code for at least an hour daily, but more focused on Javascript Testing Frameworks
+### Code for at least an hour daily, but more focused on Java and Automation
 
 ## About
 This is a personal challenge, everyone is free to join, my goal is to dive into  
