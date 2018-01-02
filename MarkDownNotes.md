@@ -1,17 +1,16 @@
 # Markdown Useful tips and syntax
 
 
-#### Flavors of Markdown
+#### Flavors of Markdown:
 
 * Markdown (Original, John Gruber)
 
-* Enhaced version:
+### Enhaced version:
 
-# Markdown Extra
-# Multi-Markdown
-# GitHub Flavored Markdown
-# Several More
-
+* Markdown Extra
+* Multi-Markdown
+* GitHub Flavored Markdown
+* Several More
 
 
 # Why Markdown?
@@ -23,7 +22,7 @@
 * Online/Cloud Bases workflows
 
 
-# Use Cases
+### Use Cases
 
 Cloud Basesoutlining
 Basesoutlining
@@ -37,11 +36,15 @@ GitHub / Bitbucket
 stackEdit.io
 
 
-
-
+# Line Break Example
 
 Linebreake:  two blank spaces where I need to make a break.
 
+This is an example of a line break, two spaces ->  then we will have a line break
+
+# Header Types
+
+AS you can see there is 6 header sizes just like HTML.
 
 
 HEADER 1
@@ -68,8 +71,6 @@ In this first sentence , I will _really_ place
 Next, I will write_very_, **strong** or bold text, also in two different ways.
 
 
-
-
 In this first sentence , I will _really_ place  
 *emphasis* on my words in two different ways.
 
@@ -79,14 +80,14 @@ This example will contain an _intra_word emphasis. This is a variable
 name var_example_int but MarkDown will render emphasis by default.
 
 
-
 # Quote Example
 
 > Always remmebr that you are absolutely unique.  
 Just like everyone else.
 #####_Margaret Mead_
 
-
+> _Fear_ for the best and hope for the _worst_.
+#####_JeBaGO_
 
 
 # Code Examples
@@ -101,13 +102,14 @@ For example:
   var test  = `test`
 The `rm` is for code commands
 
+---
 
 # List Examples
+
 ### Places to Shop
 * Supermarket  
 + Mall  
 - Gas station
-
 
 # List Examples ( Multilevel List)
 ### Places to Shop
@@ -120,14 +122,15 @@ The `rm` is for code commands
 2. Texas
 3. Florida
 4. New York
-### Favorite Foods
 
+### Favorite Foods
 * Fruit
   * Watermelon
   * Strawberry
 * Veggies
   * Carrots
-
+  
+----
 
   # Horizontal Rule Example #
 
