@@ -12,7 +12,6 @@
 * GitHub Flavored Markdown
 * Several More
 
-
 # Why Markdown?
 
 * Simple formatting
@@ -20,7 +19,6 @@
 * Widely Supported
 * Cross-Platform / cross-device
 * Online/Cloud Bases workflows
-
 
 ### Use Cases
 
@@ -30,11 +28,9 @@ Composition
 Content for blog or website
 GitHub / Bitbucket
 
-
 # Online MD
 
 stackEdit.io
-
 
 # Line Break Example
 
@@ -45,7 +41,6 @@ This is an example of a line break, two spaces ->  then we will have a line brea
 # Header Types
 
 AS you can see there is 6 header sizes just like HTML.
-
 
 HEADER 1
 ========
@@ -60,8 +55,7 @@ Header 2
 ##### header 5
 ###### header 6
 
-
-
+-----
 
 # Text Attributes Example
 
@@ -69,7 +63,6 @@ In this first sentence , I will _really_ place
 *emphasis* on my words in two different ways.
 
 Next, I will write_very_, **strong** or bold text, also in two different ways.
-
 
 In this first sentence , I will _really_ place  
 *emphasis* on my words in two different ways.
@@ -79,16 +72,20 @@ Next, I will write_very_, **strong** or bold text, also in two different ways.
 This example will contain an _intra_word emphasis. This is a variable  
 name var_example_int but MarkDown will render emphasis by default.
 
+-----
 
 # Quote Example
+
 
 > Always remmebr that you are absolutely unique.  
 Just like everyone else.
 #####_Margaret Mead_
 
+
 > _Fear_ for the best and hope for the _worst_.
 #####_JeBaGO_
 
+-----
 
 # Code Examples
 
@@ -129,7 +126,7 @@ The `rm` is for code commands
   * Strawberry
 * Veggies
   * Carrots
-  
+
 ----
 
   # Horizontal Rule Example #
